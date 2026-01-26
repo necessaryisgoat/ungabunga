@@ -1,8 +1,9 @@
-## Interface: 120000
+## Interface: 120000, 120001
 ## Title: UngaBunga
 ## Notes: unga bunga
 ## Author: Purpz
-## Version: 1.1.0
+## Version: 1.1.1
 ## SavedVariables: UngaBungaDB
 
 UngaBunga.lua
+
